@@ -25,15 +25,13 @@ ii) Veri Yapıları ve Algoritmalar dersini alan öğrenciler soyadlarına göre
 
 Örnek amaçlı tanımlanan ve kullanılan sıralama algoritmaları ile kullanım amaçları aşağıdaki tabloda mevcuttur.
 
-| Algoritma | Açıklama |
-| ------ | ------ |
-| Radiks Sıralama | Her iki dersi de alan öğrencileri soyadlarına göre sıralamamak|
-| Seçmeli Sıralama | Sadece Veritabanı Yönetim Sistemleri dersini alan öğrencileri adlarına göre sıralamak |
-| Hızlı Sıralama | Veri Yapıları ve Algoritmalar dersini alanları numaralarına göre sıralamak |
+| Algoritma | Açıklama | Durum |
+| ------ | ------ | ------ |
+| Radiks Sıralama | Her iki dersi de alan öğrencileri soyadlarına göre sıralamak | Yok |
+| Seçmeli Sıralama | Sadece Veritabanı Yönetim Sistemleri dersini alan öğrencileri adlarına göre sıralamak | Hazır |
+| Hızlı Sıralama | Veri Yapıları ve Algoritmalar dersini alanları numaralarına göre sıralamak | Yok |
 
-### Tech
-
-Dil:
+### Dil:
 * [C++] 
 
 ### Kurulum
@@ -42,7 +40,7 @@ Dil:
 
 ### Yapılacaklar
 
- - Fonksiyonlar düzenlenecek
+ - Sıralama algoritmaları düzenlenecek
 
 ### Döküman
  - Akış diyagramı hazırlanacak
